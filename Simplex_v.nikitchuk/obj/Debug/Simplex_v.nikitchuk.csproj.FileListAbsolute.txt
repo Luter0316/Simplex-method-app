@@ -1,0 +1,35 @@
+D:\Программа симплекс метод\Simplex_v.nikitchuk\Simplex_v.nikitchuk\bin\Debug\Simplex_v.nikitchuk.exe.config
+D:\Программа симплекс метод\Simplex_v.nikitchuk\Simplex_v.nikitchuk\bin\Debug\Simplex_v.nikitchuk.exe
+D:\Программа симплекс метод\Simplex_v.nikitchuk\Simplex_v.nikitchuk\bin\Debug\Simplex_v.nikitchuk.pdb
+D:\Программа симплекс метод\Simplex_v.nikitchuk\Simplex_v.nikitchuk\obj\Debug\Simplex_v.nikitchuk.csproj.AssemblyReference.cache
+D:\Программа симплекс метод\Simplex_v.nikitchuk\Simplex_v.nikitchuk\obj\Debug\Simplex_v.nikitchuk.csproj.SuggestedBindingRedirects.cache
+D:\Программа симплекс метод\Simplex_v.nikitchuk\Simplex_v.nikitchuk\obj\Debug\Simplex_v.nikitchuk.Form1.resources
+D:\Программа симплекс метод\Simplex_v.nikitchuk\Simplex_v.nikitchuk\obj\Debug\Simplex_v.nikitchuk.Properties.Resources.resources
+D:\Программа симплекс метод\Simplex_v.nikitchuk\Simplex_v.nikitchuk\obj\Debug\Simplex_v.nikitchuk.csproj.GenerateResource.cache
+D:\Программа симплекс метод\Simplex_v.nikitchuk\Simplex_v.nikitchuk\obj\Debug\Simplex_v.nikitchuk.csproj.CoreCompileInputs.cache
+D:\Программа симплекс метод\Simplex_v.nikitchuk\Simplex_v.nikitchuk\obj\Debug\Simplex_v.nikitchuk.exe
+D:\Программа симплекс метод\Simplex_v.nikitchuk\Simplex_v.nikitchuk\obj\Debug\Simplex_v.nikitchuk.pdb
+D:\Программа симплекс метод v2\Simplex_v.nikitchuk\Simplex_v.nikitchuk\bin\Debug\Simplex_v.nikitchuk.exe.config
+D:\Программа симплекс метод v2\Simplex_v.nikitchuk\Simplex_v.nikitchuk\bin\Debug\Simplex_v.nikitchuk.exe
+D:\Программа симплекс метод v2\Simplex_v.nikitchuk\Simplex_v.nikitchuk\bin\Debug\Simplex_v.nikitchuk.pdb
+D:\Программа симплекс метод v2\Simplex_v.nikitchuk\Simplex_v.nikitchuk\obj\Debug\Simplex_v.nikitchuk.csproj.AssemblyReference.cache
+D:\Программа симплекс метод v2\Simplex_v.nikitchuk\Simplex_v.nikitchuk\obj\Debug\Simplex_v.nikitchuk.csproj.SuggestedBindingRedirects.cache
+D:\Программа симплекс метод v2\Simplex_v.nikitchuk\Simplex_v.nikitchuk\obj\Debug\Simplex_v.nikitchuk.Form1.resources
+D:\Программа симплекс метод v2\Simplex_v.nikitchuk\Simplex_v.nikitchuk\obj\Debug\Simplex_v.nikitchuk.Properties.Resources.resources
+D:\Программа симплекс метод v2\Simplex_v.nikitchuk\Simplex_v.nikitchuk\obj\Debug\Simplex_v.nikitchuk.csproj.GenerateResource.cache
+D:\Программа симплекс метод v2\Simplex_v.nikitchuk\Simplex_v.nikitchuk\obj\Debug\Simplex_v.nikitchuk.csproj.CoreCompileInputs.cache
+D:\Программа симплекс метод v2\Simplex_v.nikitchuk\Simplex_v.nikitchuk\obj\Debug\Simplex_v.nikitchuk.exe
+D:\Программа симплекс метод v2\Simplex_v.nikitchuk\Simplex_v.nikitchuk\obj\Debug\Simplex_v.nikitchuk.pdb
+C:\Users\perfe\OneDrive\ЯрГУ\Исследование операций и методы оптимизации 2к2с\Программа симплекс метод\Simplex_v.nikitchuk\Simplex_v.nikitchuk\obj\Debug\Simplex_v.nikitchuk.csproj.AssemblyReference.cache
+C:\Users\perfe\OneDrive\ЯрГУ\Исследование операций и методы оптимизации 2к2с\Программа симплекс метод\Simplex_v.nikitchuk\Simplex_v.nikitchuk\obj\Debug\Simplex_v.nikitchuk.csproj.SuggestedBindingRedirects.cache
+C:\Users\perfe\OneDrive\ЯрГУ\Исследование операций и методы оптимизации 2к2с\Программа симплекс метод\Simplex_v.nikitchuk\Simplex_v.nikitchuk\obj\Debug\Simplex_v.nikitchuk.Properties.Resources.resources
+C:\Users\perfe\OneDrive\ЯрГУ\Исследование операций и методы оптимизации 2к2с\Программа симплекс метод\Simplex_v.nikitchuk\Simplex_v.nikitchuk\obj\Debug\Simplex_v.nikitchuk.csproj.GenerateResource.cache
+C:\Users\perfe\OneDrive\ЯрГУ\Исследование операций и методы оптимизации 2к2с\Программа симплекс метод\Simplex_v.nikitchuk\Simplex_v.nikitchuk\obj\Debug\Simplex_v.nikitchuk.csproj.CoreCompileInputs.cache
+C:\Users\perfe\OneDrive\ЯрГУ\Исследование операций и методы оптимизации 2к2с\Программа симплекс метод\Simplex_v.nikitchuk\Simplex_v.nikitchuk\obj\Debug\Simplex_v.nikitchuk.exe
+C:\Users\perfe\OneDrive\ЯрГУ\Исследование операций и методы оптимизации 2к2с\Программа симплекс метод\Simplex_v.nikitchuk\Simplex_v.nikitchuk\obj\Debug\Simplex_v.nikitchuk.pdb
+C:\Users\perfe\OneDrive\ЯрГУ\Исследование операций и методы оптимизации 2к2с\Программа симплекс метод\Simplex_v.nikitchuk\Simplex_v.nikitchuk\bin\Debug\Simplex_v.nikitchuk.exe.config
+C:\Users\perfe\OneDrive\ЯрГУ\Исследование операций и методы оптимизации 2к2с\Программа симплекс метод\Simplex_v.nikitchuk\Simplex_v.nikitchuk\bin\Debug\Simplex_v.nikitchuk.exe
+C:\Users\perfe\OneDrive\ЯрГУ\Исследование операций и методы оптимизации 2к2с\Программа симплекс метод\Simplex_v.nikitchuk\Simplex_v.nikitchuk\bin\Debug\Simplex_v.nikitchuk.pdb
+C:\Users\perfe\OneDrive\ЯрГУ\Исследование операций и методы оптимизации 2к2с\Программа симплекс метод\Simplex_v.nikitchuk\Simplex_v.nikitchuk\obj\Debug\Simplex_v.nikitchuk.Condition.resources
+C:\Users\perfe\OneDrive\ЯрГУ\Исследование операций и методы оптимизации 2к2с\Программа симплекс метод\Simplex_v.nikitchuk\Simplex_v.nikitchuk\obj\Debug\Simplex_v.nikitchuk.Decision.resources
+C:\Users\perfe\OneDrive\ЯрГУ\Исследование операций и методы оптимизации 2к2с\Программа симплекс метод\Simplex_v.nikitchuk\Simplex_v.nikitchuk\obj\Debug\Simplex_v.nikitchuk.DecisionStepByStep.resources
